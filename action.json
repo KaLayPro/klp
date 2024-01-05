@@ -1,5 +1,20 @@
 [
      {
+    "Name":"Khun Pan",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-09-07/64f94c7880593.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/KhunPan116/index.m3u8"   
+  },
+     {
+    "Name":"Khun Pan 2",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-09-07/64f94bb962174.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/KhunPan218/index.m3u8"   
+  },
+     {
+    "Name":"Don’t Kill It",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-09-06/64f7fca5896f1.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/DontKillIt16/index.m3u8"   
+  },
+     {
     "Name":"Babaylan",
     "Image":"http://zegomovie.com/Uploads/vod/2023-09-04/64f5b78aa72ac.png",
     "pLink": "http://www.zegomovie.com/Videos/Babaylan23/index.m3u8"   
