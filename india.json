@@ -1,1 +1,12 @@
-
+[
+   {
+    "Name":"Vikram Vedha",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf5f1332cd9a.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/VikramVedha/index.m3u8"   
+  },
+  {
+    "Name":"Velaiilla Pattadhari 2",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-03/5cf505287c6f0.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/VelaiillaPattadhari2/index.m3u8"   
+  }
+]
