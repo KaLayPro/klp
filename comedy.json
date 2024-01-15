@@ -1,5 +1,35 @@
 [
    {
+    "Name":"Miss Fortune",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-18/655844703c237.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/MISSFORTUNE23/index.m3u8"   
+  },
+   {
+    "Name":"Congrats My Ex!",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-17/6556d1ec28ee1.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/CongratsMyEx23/index.m3u8"   
+  },
+   {
+    "Name":"Nikamma",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-17/6556d14d1c86a.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Nikamma22/index.m3u8"   
+  },
+   {
+    "Name":"Dinner for Schmucks",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-17/6556d0ca462d6.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/DinnerforSchmucks10/index.m3u8"   
+  },
+   {
+    "Name":"The Wedding Veil Journey",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-15/65546db736ff9.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheWeddingVeilJourney23/index.m3u8"   
+  },
+   {
+    "Name":"Outlaw Johnny Black",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-13/6551df561705c.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/OutlawJohnnyBlack23/index.m3u8"   
+  },
+   {
     "Name":"The Wedding Veil Legacy",
     "Image":"http://zegomovie.com/Uploads/vod/2023-11-13/6551a7c5ed0f8.jpg",
     "pLink": "http://www.zegomovie.com/Videos/TheWeddingVeilLegacy22/index.m3u8"   
