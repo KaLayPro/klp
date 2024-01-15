@@ -1,5 +1,35 @@
 [
    {
+    "Name":"Lift",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-15/65a4da2b1300c.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Lift24/index.m3u8"   
+  },
+   {
+    "Name":"Good Grief",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-13/65a2458b4e9c2.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/GoodGrief23/index.m3u8"   
+  },
+   {
+    "Name":"Imagine That",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-13/65a244b5dcaca.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ImagineThat09/index.m3u8"   
+  },
+   {
+    "Name":"Easy Money",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-08/659b99fb82f74.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/EasyMoney23/index.m3u8"   
+  },
+   {
+    "Name":"Hi Brother",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-06/659930298028c.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/HiBrother23/index.m3u8"   
+  },
+   {
+    "Name":"Tholvi F.C",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-05/6597d35e39891.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TholviFC23/index.m3u8"   
+  },
+   {
     "Name":"Boyz 4",
     "Image":"http://zegomovie.com/Uploads/vod/2023-11-24/65602be20b6cc.jpg",
     "pLink": "http://www.zegomovie.com/Videos/Boyz423/index.m3u8"   
