@@ -1,5 +1,70 @@
 [
   {
+    "Name":"The Pirates",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-14/5d03860d28f3f.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ThePirates/index.m3u8"   
+  },
+  {
+    "Name":"The Good the Bad the Weird",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-14/5d03777094395.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheGoodtheBadtheWeird/index.m3u8"   
+  },
+  {
+    "Name":"Roughcut",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-14/5d0382fecb7d8.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Roughcut/index.m3u8"   
+  },
+  {
+    "Name":"One On One",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-14/5d0375133723e.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/OneOnOne/index.m3u8"   
+  },
+  {
+    "Name":"New World",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-07/5cfa047d0cc51.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/NewWorld/index.m3u8"   
+  },
+  {
+    "Name":"Heart Blackened",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf7535b904e4.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/HeartBlackened/index.m3u8"   
+  },
+  {
+    "Name":"War of the Arrows",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04ce03a8218.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/WaroftheArrows/index.m3u8"   
+  },
+  {
+    "Name":"Arahan",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-14/5d038f5934ba2.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Arahan/index.m3u8"   
+  },
+  {
+    "Name":"Ashfall",
+    "Image":"http://zegomovie.com/Uploads/vod/2020-01-31/5e33da450b3fb.png",
+    "pLink": "http://www.zegomovie.com/Videos/Ashfall/index.m3u8"   
+  },
+  {
+    "Name":"71 into the fire",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-14/5d03737bdc937.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/71intothefire/index.m3u8"   
+  },
+  {
+    "Name":"Detective K Secret of the Living Dead",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-12/5d00aa3e85753.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/DetectiveKSecretoftheLivingDead/index.m3u8"   
+  },
+  {
+    "Name":"Loner",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-14/5d036f876b1ae.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Loner/index.m3u8"   
+  },
+  {
+    "Name":"Duelist",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-14/5d03824d7c989.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Duelist/index.m3u8"   
+  },
+  {
     "Name":"Love Match",
     "Image":"http://zegomovie.com/Uploads/vod/2019-12-12/5df22cd9a4e8a.jpg",
     "pLink": "http://www.zegomovie.com/Videos/LoveMatch/index.m3u8"   
