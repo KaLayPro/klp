@@ -1,8 +1,38 @@
 [
   {
-    "Name":"Lift",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-15/65a4da2b1300c.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/Lift24/index.m3u8"   
+    "Name":"Longxing Northern Expedition",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-07-10/64ab90d150656.png",
+    "pLink": "http://www.zegomovie.com/Videos/LongxingNorthernExpedition/index.m3u8"   
+  },
+  {
+    "Name":"Fight Against Evil Ⅱ",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-07-17/64b50e1e4bb0f.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/FightAgainstEvilII23/index.m3u8"   
+  },
+  {
+    "Name":"Horror Novelist",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-07-20/64b8e48f8be45.png",
+    "pLink": "http://www.zegomovie.com/Videos/HorrorNovelist/index.m3u8"   
+  },
+  {
+    "Name":"Songjiang God Father",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-26/647087bd46917.png",
+    "pLink": "http://www.zegomovie.com/Videos/SongJiangGodFather/index.m3u8"   
+  },
+  {
+    "Name":"The Hairpin of the Rogue",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-17/6464ac13ea0da.png",
+    "pLink": "http://www.zegomovie.com/Videos/TheHairpinoftheRogue/index.m3u8"   
+  },
+  {
+    "Name":"Detective Dee and the Mysterious City",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-19/64672eb80d41d.png",
+    "pLink": "http://www.zegomovie.com/Videos/DetectiveDeeAndtheMysteriousCity/index.m3u8"   
+  },
+  {
+    "Name":"The Sword of Jingchu",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-06-12/6486965611460.png",
+    "pLink": "http://www.zegomovie.com/Videos/TheSwordOfJingChu/index.m3u8"   
   },
   {
     "Name":"Min & Max",
