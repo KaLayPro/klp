@@ -1,5 +1,40 @@
 [
    {
+    "Name":"Ek Tha Tiger",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff4891dec96.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/EkThaTiger/index.m3u8"   
+  },
+   {
+    "Name":"Bruce Lee The Fighter",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf77cff9d3a9.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/BruceLeeTheFighter/index.m3u8"   
+  },
+   {
+    "Name":"Action Jackson",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff4e61b0ef6.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ActionJackson/index.m3u8"   
+  },
+   {
+    "Name":"Raja The Great",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-14/5d031b5ebc35a.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/RajaTheGreat/index.m3u8"   
+  },
+   {
+    "Name":"Satyameva Jayate",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-24/5d105dfa83e9a.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/SatyamevaJayate/index.m3u8"   
+  },
+   {
+    "Name":"Jai Lava Kusa",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-13/5d0210034b5bb.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/JaiLavaKusa/index.m3u8"   
+  },
+   {
+    "Name":"Fitoor",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-03/5cf4eed041a4a.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Fitoor/index.m3u8"   
+  },
+   {
     "Name":"Phantom",
     "Image":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfddd942280f.jpg",
     "pLink": "http://www.zegomovie.com/Videos/Phantom/index.m3u8"   
