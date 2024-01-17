@@ -1,5 +1,20 @@
 [
    {
+    "Name":"Phantom",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfddd942280f.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Phantom/index.m3u8"   
+  },
+   {
+    "Name":"Mary Kom",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfdd2ac1e171.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/MaryKom/index.m3u8"   
+  },
+   {
+    "Name":"Madaari",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfde47cd8abd.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Madaari/index.m3u8"   
+  },
+   {
     "Name":"Kaabil",
     "Image":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfdd21dca3c6.jpg",
     "pLink": "http://www.zegomovie.com/Videos/kaabil/index.m3u8"   
