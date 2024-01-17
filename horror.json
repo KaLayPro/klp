@@ -1,5 +1,75 @@
 [
   {
+    "Name":"Pamali",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-05/6597868bb3efe.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Pamali22/index.m3u8"   
+  },
+  {
+    "Name":"Yule Log",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-26/658a75f4ce9ee.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/YuleLog23/index.m3u8"   
+  },
+  {
+    "Name":"Monsternado",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-20/6582c1f46ae94.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Monsternado23/index.m3u8"   
+  },
+  {
+    "Name":"Medusa’s Venom",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-11/6576eb186f02a.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/MedusasVenom23/index.m3u8"   
+  },
+  {
+    "Name":"Night of the Demons 2",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-11/65769329c7108.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/NightOfTheDemons294/index.m3u8"   
+  },
+  {
+    "Name":"Perjanjian Gaib",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-20/655b047b0062c.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/PerjanjianGaib23/index.m3u8"   
+  },
+  {
+    "Name":"Moon Garden",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-17/6557287dd11b6.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/MoonGarden22/index.m3u8"   
+  },
+  {
+    "Name":"Die’ced",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-16/6555c85eb14ca.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Dieced23/index.m3u8"   
+  },
+  {
+    "Name":"The Canal",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-15/65549419435cb.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheC14/index.m3u8"   
+  },
+  {
+    "Name":"The Elevator",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-14/65533964f2163.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheElevator23/index.m3u8"   
+  },
+  {
+    "Name":"Tantiram Chapter 1: Tales of Sivakasi",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-13/6551e106f2110.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Tantiram23/index.m3u8"   
+  },
+  {
+    "Name":"Tabu: Mengusik Gerbang Iblis",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-10/654deb244d9b0.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TabuMengusikGerbangIblis19/index.m3u8"   
+  },
+  {
+    "Name":"Three Blind Mice",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-09/654c8a761c607.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ThreeBlindMic23/index.m3u8"   
+  },
+  {
+    "Name":"Terrified",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-11-09/654c8a0c685eb.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Terrified17/index.m3u8"   
+  },
+  {
     "Name":"Darah Perawan Bulan Madu",
     "Image":"http://zegomovie.com/Uploads/vod/2023-11-07/654a0a3f55a69.jpg",
     "pLink": "http://www.zegomovie.com/Videos/DarahPerawanBulanMadu09/index.m3u8"   
