@@ -1,5 +1,70 @@
 [
    {
+    "Name":"Kaabil",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfdd21dca3c6.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/kaabil/index.m3u8"   
+  },
+   {
+    "Name":"Force",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfde7b4239b0.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Force/index.m3u8"   
+  },
+   {
+    "Name":"Arundati",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfdde9d10f1f.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Arundatitwo/index.m3u8"   
+  },
+   {
+    "Name":"Ashoka the Great",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-05-28/5cecfdce2dce0.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AshokatheGreat/index.m3u8"   
+  },
+   {
+    "Name":"Saaho",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-12-02/5de4b8257251e.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Saaho/index.m3u8"   
+  },
+   {
+    "Name":"Batla House",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-12-02/5de49a67b49c9.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/BatlaHouse/index.m3u8"   
+  },
+   {
+    "Name":"Manchana ; Muni 2",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-01/5cf230349bb47.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ManchanaMuni2/index.m3u8"   
+  },
+   {
+    "Name":"Lamhaa: The Untold Story of Kashmir",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-01/5cf2495b65528.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Lamhaa/index.m3u8"   
+  },
+   {
+    "Name":"Raatchasi",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-10-28/5db6bd073f651.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Raatchasi/index.m3u8"   
+  },
+   {
+    "Name":"Student of the Year 2",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-10-28/5db699e9c927a.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/StudentoftheYear2/index.m3u8"   
+  },
+   {
+    "Name":"DHURUVANGAL PATHINAARU",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-28/5d15b5ccd7876.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/DHURUVANGALPATHINAARU/index.m3u8"   
+  },
+   {
+    "Name":"Don",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff350d25a22.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Don/index.m3u8"   
+  },
+   {
+    "Name":"Naa Peru Surya Na Illu India",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-26/5d12fb3507ea4.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/SuryaTheBraveSoldier/index.m3u8"   
+  },
+   {
     "Name":"Vikram Vedha",
     "Image":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf5f1332cd9a.jpg",
     "pLink": "http://www.zegomovie.com/Videos/VikramVedha/index.m3u8"   
