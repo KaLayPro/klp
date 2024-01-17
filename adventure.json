@@ -1,8 +1,18 @@
 [
   {
-    "Name":"Lift",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-01-15/65a4da2b1300c.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/Lift24/index.m3u8"   
+    "Name":"Fast X",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-26/647066dcb1126.png",
+    "pLink": "http://www.zegomovie.com/Videos/Fast%20X%20(10)/index.m3u8"   
+  },
+  {
+    "Name":"Bholaa",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-12/645da9ca5dd90.png",
+    "pLink": "http://www.zegomovie.com/Videos/Bholaa23/index.m3u8"   
+  },
+  {
+    "Name":"Airiseu: Deo mubi",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-05-31/5cf0b0a9b76d1.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AiriseuDeomubi/index.m3u8"   
   },
   {
     "Name":"Maragadha Naanayam",
