@@ -1,5 +1,15 @@
 [
   {
+    "Name":"Dovbush",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-16/65a63f1b1c994.PNG",
+    "pLink": "http://www.zegomovie.com/Videos/Dovbush23/index.m3u8"   
+  },
+  {
+    "Name":"Valhalla Rising",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-12-19/6581590c2fbaf.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ValhallaRising09/index.m3u8"   
+  },
+  {
     "Name":"Jack the Giant Slayer",
     "Image":"http://zegomovie.com/Uploads/vod/2019-06-17/5d07527f27c35.jpg",
     "pLink": "http://www.zegomovie.com/Videos/JacktheGiantSlayer/index.m3u8"   
