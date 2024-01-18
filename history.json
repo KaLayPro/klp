@@ -1,5 +1,30 @@
 [
    {
+    "Name":"Sher Shivraj",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-08-07/64d06ef8a3b0b.png",
+    "pLink": "http://www.zegomovie.com/Videos/SherShivraj22/index.m3u8"   
+  },
+   {
+    "Name":"1944",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-06-27/649a695b66bfa.png",
+    "pLink": "http://www.zegomovie.com/Videos/1944/index.m3u8"   
+  },
+   {
+    "Name":"Shadows in the Palace",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-16/64636102f0106.png",
+    "pLink": "http://www.zegomovie.com/Videos/ShadowsinthePalace/index.m3u8"   
+  },
+   {
+    "Name":"Yaathisai",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-05-15/6461b93db6ac0.png",
+    "pLink": "http://www.zegomovie.com/Videos/Yaathisai/index.m3u8"   
+  },
+   {
+    "Name":"The Last Kingdom:",
+    "Image":"http://zegomovie.com/Uploads/vod/2023-04-28/644b58a5d5355.png",
+    "pLink": "http://www.zegomovie.com/Videos/TheLastKingdomSevenKingsMustDie/index.m3u8"   
+  },
+   {
     "Name":"Eismayer",
     "Image":"http://zegomovie.com/Uploads/vod/2023-04-19/643f68b887e86.png",
     "pLink": "http://www.zegomovie.com/Videos/Eismayer/index.m3u8"   
