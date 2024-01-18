@@ -1,5 +1,45 @@
 [
   {
+    "Name":"Frozen II",
+    "Image":"http://zegomovie.com/Uploads/vod/2020-01-06/5e12cba166e27.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/FrozenII/index.m3u8"   
+  },
+  {
+    "Name":"Coco",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf77a11e4090.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Coco/index.m3u8"   
+  },
+  {
+    "Name":"Big Hero 6",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-15/5d0493d88c347.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/BigHero6/index.m3u8"   
+  },
+  {
+    "Name":"The Snow Queen 3 Fire and Ice",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf79e7925206.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheSnowQueen3FireandIce/index.m3u8"   
+  },
+  {
+    "Name":"Ne Zha",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-11-21/5dd56a9074096.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/NeZha/index.m3u8"   
+  },
+  {
+    "Name":"The Boss Baby",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-17/5d07395805556.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheBossBaby/index.m3u8"   
+  },
+  {
+    "Name":"Cars 3",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-08-22/5d5e16e736dc4.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Cars3/index.m3u8"   
+  },
+  {
+    "Name":"A Stork's Journey",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-08-22/5d5e3e2cac7aa.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AStorksJourney/index.m3u8"   
+  },
+  {
     "Name":"Ferdinand",
     "Image":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf7946663b8b.jpg",
     "pLink": "http://www.zegomovie.com/Videos/Ferdinand/index.m3u8"   
