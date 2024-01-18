@@ -1,5 +1,45 @@
 [
      {
+    "Name":"In Time",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8fd8f78f8a.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/InTime/index.m3u8"   
+  },
+     {
+    "Name":"Immortals",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8fa3babb65.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Immortals/index.m3u8"   
+  },
+     {
+    "Name":"GI Joe The Rise of Cobra",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8e3c00beb6.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/GIJoeTheRiseofCobra/index.m3u8"   
+  },
+     {
+    "Name":"Thor Ragnarok",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf783a6d5431.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ThorRagnarok/index.m3u8"   
+  },
+     {
+    "Name":"Desamuduru",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf7472f431a6.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Desamuduru/index.m3u8"   
+  },
+     {
+    "Name":"VIP",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf654f1a5913.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/VIP/index.m3u8"   
+  },
+     {
+    "Name":"The Yellow Sea",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-05-31/5cf102aa2c5df.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheYellowSea/index.m3u8"   
+  },
+     {
+    "Name":"John.Wick.Chapter-2",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-05-24/5ce7d0d69a422.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/JohnWickChapter2/index.m3u8"   
+  },
+     {
     "Name":"Khun Pan",
     "Image":"http://zegomovie.com/Uploads/vod/2023-09-07/64f94c7880593.jpg",
     "pLink": "http://www.zegomovie.com/Videos/KhunPan116/index.m3u8"   
