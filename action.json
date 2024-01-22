@@ -1,5 +1,55 @@
 [
      {
+    "Name":"Clash of the Titans",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf60b2a8fa86.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ClashoftheTitans/index.m3u8"   
+  },
+     {
+    "Name":"ATHENA - Goddess of War",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-03/5cf4a490d5e4f.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ATHENAGoddessofWar/index.m3u8"   
+  },
+     {
+    "Name":"300: Rise of an Empire",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-03/5cf4e1992c92a.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/300RiseofanEmpire/index.m3u8"   
+  },
+     {
+    "Name":"14 Blades",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-01/5cf227ba83027.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/14Blades/index.m3u8"   
+  },
+     {
+    "Name":"Commando",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff4ea9c5203.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Commando/index.m3u8"   
+  },
+     {
+    "Name":"Hitman Agent 47",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-05-23/5ce67f2b8a1c9.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/HitmanAgent47/index.m3u8"   
+  },
+     {
+    "Name":"Falcon Rising",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-05-22/5ce52d375154c.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/FalconRising/index.m3u8"   
+  },
+     {
+    "Name":"BLITZ",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-05-22/5ce527f0c47cd.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/BLITZ/index.m3u8"   
+  },
+     {
+    "Name":"The Seven Swords",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-08-09/5d4d123664a50.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheSevenSwords/index.m3u8"   
+  },
+     {
+    "Name":"Take Point",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-10-28/5db6c50683b6c.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TakePoint/index.m3u8"   
+  },
+     {
     "Name":"The Scoundrels",
     "Image":"http://zegomovie.com/Uploads/vod/2019-10-28/5db68c0fd7bb0.jpg",
     "pLink": "http://www.zegomovie.com/Videos/TheScoundrels/index.m3u8"   
