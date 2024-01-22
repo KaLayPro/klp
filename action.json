@@ -1,5 +1,40 @@
 [
      {
+    "Name":"The Scoundrels",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-10-28/5db68c0fd7bb0.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheScoundrels/index.m3u8"   
+  },
+     {
+    "Name":"White Vengeance",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-08-22/5d5e1d9a7e654.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/WhiteVengeance/index.m3u8"   
+  },
+     {
+    "Name":"Matchless Hero Fang Shiyu",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-08-09/5d4d3dee909b7.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/MatchlessHeroFangShiyu/index.m3u8"   
+  },
+     {
+    "Name":"Maria",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-08-09/5d4d32470ba25.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Maria/index.m3u8"   
+  },
+     {
+    "Name":"Terminator genisys",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-08-05/5d47ced3ac4f1.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Terminatorgenisys/index.m3u8"   
+  },
+     {
+    "Name":"Blood and Bone",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-08-05/5d47b4d173431.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/BloodandBone/index.m3u8"   
+  },
+     {
+    "Name":"The Divine Move",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-28/5d15dbfda617e.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheDivineMove/index.m3u8"   
+  },
+     {
     "Name":"MasterZ IP Man Legacy",
     "Image":"http://zegomovie.com/Uploads/vod/2019-06-27/5d14467c6dc41.jpg",
     "pLink": "http://www.zegomovie.com/Videos/MasterZIPManLegacy/index.m3u8"   
