@@ -1,5 +1,50 @@
 [
   {
+    "Name":"Hotel Transylvania 2",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04a613ba0fc.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/HotelTransylvania2/index.m3u8"   
+  },
+  {
+    "Name":"Hotel Transylvania 1",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04a5e4ad8b7.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/HotelTransylvania1/index.m3u8"   
+  },
+  {
+    "Name":"Ghosthunters on Icy Trails",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04a4a07a603.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/GhosthuntersonIcyTrails/index.m3u8"   
+  },
+  {
+    "Name":"Final Fantasy VII Advent Children",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04a007cbb27.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/FinalFantasyVIIAdventChildren/index.m3u8"   
+  },
+  {
+    "Name":"Cars 2",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04953f602eb.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Cars2/index.m3u8"   
+  },
+  {
+    "Name":"Capture the Flag",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04950f72871.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/CapturetheFlag/index.m3u8"   
+  },
+  {
+    "Name":"BoBoiBoy The Movie",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-15/5d0494397f174.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/BoBoiBoyTheMovie/index.m3u8"   
+  },
+  {
+    "Name":"Bling",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-15/5d049408010cc.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Bling/index.m3u8"   
+  },
+  {
+    "Name":"Aliens In Attic",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-14/5d038033449b3.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AliensInAttic/index.m3u8"   
+  },
+  {
     "Name":"Moana",
     "Image":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04c5eb8eb9a.jpg",
     "pLink": "http://www.zegomovie.com/Videos/Moana/index.m3u8"   
