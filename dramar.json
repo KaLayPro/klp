@@ -1,5 +1,20 @@
 [
   {
+    "Name":"High Strung",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8f26122a3c.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/HighStrung/index.m3u8"   
+  },
+  {
+    "Name":"High Strung",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8f26122a3c.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/HighStrung/index.m3u8"   
+  },
+  {
+    "Name":"Golden Kingdom",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8da470997f.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/GoldenKingdom/index.m3u8"   
+  },
+  {
     "Name":"Wonder",
     "Image":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf78f7006ed0.jpg",
     "pLink": "http://www.zegomovie.com/Videos/Wonder/index.m3u8"   
