@@ -1,0 +1,22 @@
+[
+  {
+    "Name":"Desperado",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-29/65b74d35a03ba.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Desperado24/index.m3u8"   
+  },
+  {
+    "Name":"The Forest of Love",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-12-02/5de4b03f07450.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheForestofLove/index.m3u8"   
+  },
+  {
+    "Name":"Night In Paradise",
+    "Image":"http://zegomovie.com/Uploads/vod/2021-04-23/60829cf4b8aa2.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/NightInParadise/index.m3u8"   
+  },
+  {
+    "Name":"Master",
+    "Image":"http://zegomovie.com/Uploads/vod/2021-02-02/6018bb67ee008.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Master2021/index.m3u8"   
+  }
+]
