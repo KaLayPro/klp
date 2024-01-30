@@ -1,5 +1,10 @@
 [
   {
+    "Name":"Sixty Minutes",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-29/65b7372d0e48a.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/SixtyMinutes24/index.m3u8"   
+  },
+  {
     "Name":"Badland Hunters",
     "Image":"http://zegomovie.com/Uploads/vod/2024-01-27/65b4897545b41.jpg",
     "pLink": "http://www.zegomovie.com/Videos/BadlandHunters24/index.m3u8"   
