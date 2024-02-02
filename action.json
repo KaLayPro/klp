@@ -1,5 +1,15 @@
 [
    {
+    "Name":"The Horseman",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-31/65b9c3d51ec41.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheHorseman08/index.m3u8"   
+  },
+   {
+    "Name":"The Marine 3: Homefront",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-01-30/65b8c7e145966.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheMarine3Homefront13/index.m3u8"   
+  },
+   {
     "Name":"Katamarayudu",
     "Image":"http://zegomovie.com/Uploads/vod/2024-01-30/65b8808e94e4c.jpg",
     "pLink": "http://www.zegomovie.com/Videos/Katamarayudu17/index.m3u8"   
