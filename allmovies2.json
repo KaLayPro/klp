@@ -1,5 +1,55 @@
 [
   {
+    "Name":"Kaiva",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-03/65be0782926db.png",
+    "pLink": "http://www.zegomovie.com/Videos/Kaiva23/index.m3u8"   
+  },
+  {
+    "Name":"Mastaney",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-03/65be013f04b8d.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Mastaney23/index.m3u8"   
+  },
+  {
+    "Name":"Tasbih Kosong",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-03/65bdb76e9e6af.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TasbihKosong23/index.m3u8"   
+  },
+  {
+    "Name":"Pindam",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-03/65bdb6ee9106c.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Pindam23/index.m3u8"   
+  },
+  {
+    "Name":"King of Adventure: Golden Jade Plate",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-03/65bdb651def21.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/KingofAdventureGoldPlate24/index.m3u8"   
+  },
+  {
+    "Name":"Bursting Point",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-03/65bdb4980a13b.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/BurstingPoint24/index.m3u8"   
+  },
+  {
+    "Name":"12 Rounds 2: Reloaded",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-03/65bdb163c8014.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/12Rounds2Reloaded13/index.m3u8"   
+  },
+  {
+    "Name":"12 Rounds",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-03/65bdb0c9e443f.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/12Rounds09/index.m3u8"   
+  },
+  {
+    "Name":"AIMEE: The Visitor",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-03/65bdaffa8dc04.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AIMEETheVisitor23/index.m3u8"   
+  },
+  {
+    "Name":"The Gossip",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-03/65bdaf69f216d.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheGossip21/index.m3u8"   
+  },
+  {
     "Name":"Romance with a Twist",
     "Image":"http://zegomovie.com/Uploads/vod/2024-02-03/65bdaeae6bef7.jpg",
     "pLink": "http://www.zegomovie.com/Videos/RomancewithaTwist24/index.m3u8"   
