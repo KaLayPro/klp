@@ -1,5 +1,40 @@
 [
   {
+    "Name":"Galaksi",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-06/65c1b9449b8b9.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Galaksi23/index.m3u8"   
+  },
+  {
+    "Name":"Eye For An Eye",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-06/65c1b8cfbf3d1.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/EyeforAnEye23/index.m3u8"   
+  },
+  {
+    "Name":"Legend of Changbai Mountain Hunter",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-06/65c1a90f5ed76.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/LegendofChangbaiMountainHunter24/index.m3u8"   
+  },
+  {
+    "Name":"Crypto Storm",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-06/65c1a889d8628.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/CryptoStorm24/index.m3u8"   
+  },
+  {
+    "Name":"Beast Master",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-06/65c1a822d20fc.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/BeastMaster24/index.m3u8"   
+  },
+  {
+    "Name":"The Grey Man",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-06/65c1a7b00e8ff.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheGreyMan24/index.m3u8"   
+  },
+  {
+    "Name":"Escaping The Madhouse",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-06/65c1a728606ec.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/EscapingTheMadhouse24/index.m3u8"   
+  },
+  {
     "Name":"Alone With Her Dreams",
     "Image":"http://zegomovie.com/Uploads/vod/2024-02-06/65c1a69c3d1ea.jpg",
     "pLink": "http://www.zegomovie.com/Videos/AloneWithHerDreams19/index.m3u8"   
