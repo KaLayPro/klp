@@ -1,5 +1,20 @@
 [
   {
+    "Name":"Raya and the Last Dragon",
+    "Image":"http://zegomovie.com/Uploads/vod/2021-03-29/60614e5e18b2e.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/RayaandtheLastDragon/index.m3u8"   
+  },
+  {
+    "Name":"The Witches",
+    "Image":"http://zegomovie.com/Uploads/vod/2020-10-29/5f9a24cf371ef.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheWitches/index.m3u8"   
+  },
+  {
+    "Name":"Storozhova zastava",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf78736eeabc.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Storozhovazastava/index.m3u8"   
+  },
+  {
     "Name":"Hunt the Wicked",
     "Image":"http://zegomovie.com/Uploads/vod/2024-02-20/65d479616ecae.jpg",
     "pLink": "http://www.zegomovie.com/Videos/HuntTheWicked24/index.m3u8"   
