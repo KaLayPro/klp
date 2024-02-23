@@ -1,5 +1,15 @@
 [
   {
+    "Name":"The Witches",
+    "Image":"http://zegomovie.com/Uploads/vod/2020-10-29/5f9a24cf371ef.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheWitches/index.m3u8"   
+  },
+  {
+    "Name":"Storozhova zastava",
+    "Image":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf78736eeabc.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Storozhovazastava/index.m3u8"   
+  },
+  {
     "Name":"Two Brothers",
     "Image":"http://zegomovie.com/Uploads/vod/2024-02-19/65d3155dd2f4a.jpg",
     "pLink": "http://www.zegomovie.com/Videos/TwoBrothers04/index.m3u8"   
