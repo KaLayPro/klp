@@ -1,5 +1,35 @@
 [
   {
+    "Name":"The Shop Of The Lamp",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-26/65dc4b66d63f4.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheShopOfTheLamp24/index.m3u8"   
+  },
+  {
+    "Name":"Ashes",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-26/65dc49b0c40ab.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Ashes24/index.m3u8"   
+  },
+  {
+    "Name":"See You Again",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-26/65dc4906558a1.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/SeeYouAgain24/index.m3u8"   
+  },
+  {
+    "Name":"Munch",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-26/65dc19d90e767.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Munch23/index.m3u8"   
+  },
+  {
+    "Name":"Nalavenba",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-26/65dc14f976e41.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Nalavenba24/index.m3u8"   
+  },
+  {
+    "Name":"The Grey Man",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-02-26/65dc132646420.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheGreyMan24/index.m3u8"   
+  },
+  {
     "Name":"Ippadiku Kadhal",
     "Image":"http://zegomovie.com/Uploads/vod/2024-02-26/65dc1236d7363.jpg",
     "pLink": "http://www.zegomovie.com/Videos/IppadikkuKaadhal24/index.m3u8"   
