@@ -1,5 +1,15 @@
 [
   {
+    "Name":"Red Dot",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-07/65e92b0a38894.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/RedDot21/index.m3u8"   
+  },
+  {
+    "Name":"Exiled",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-07/65e928924f420.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Exiled06/index.m3u8"   
+  },
+  {
     "Name":"Death is All Around",
     "Image":"http://zegomovie.com/Uploads/vod/2024-03-06/65e830ca326a4.jpg",
     "pLink": "http://www.zegomovie.com/Videos/DeathIsAllAround24/index.m3u8"   
