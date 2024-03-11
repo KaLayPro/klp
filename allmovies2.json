@@ -1,5 +1,35 @@
 [
   {
+    "Name":"Death is All Around",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-07/65e92e3dc0e93.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/DeathIsAllAround24/index.m3u8"   
+  },
+  {
+    "Name":"Night Explorers: The Asylum",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-07/65e92d512aec8.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/NightExplorersTheAsylum23/index.m3u8"   
+  },
+  {
+    "Name":"Red Dot",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-07/65e92b0a38894.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/RedDot21/index.m3u8"   
+  },
+  {
+    "Name":"Planetquake",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-07/65e92a8d062b9.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Planetquake24/index.m3u8"   
+  },
+  {
+    "Name":"Ribblehead",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-07/65e928f13864e.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Ribblehead22/index.m3u8"   
+  },
+  {
+    "Name":"Exiled",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-07/65e928924f420.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Exiled06/index.m3u8"   
+  },
+  {
     "Name":"Tiger Stripes",
     "Image":"http://zegomovie.com/Uploads/vod/2024-03-07/65e92821d218b.jpg",
     "pLink": "http://www.zegomovie.com/Videos/TigerStripes23/index.m3u8"   
