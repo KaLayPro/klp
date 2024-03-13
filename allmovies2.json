@@ -1,8 +1,48 @@
 [
   {
-    "Name":"The Parades",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-03-11/65ee6f1a2767c.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/TheParades24/index.m3u8"   
+    "Name":"Damsel",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-11/65eebc84cc8e8.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Damsel24/index.m3u8"   
+  },
+  {
+    "Name":"Lost Phoenix",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-11/65eebb7d036fd.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/LostPhoenix24/index.m3u8"   
+  },
+  {
+    "Name":"Lola",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-11/65eebadcd1ed2.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Lola24/index.m3u8"   
+  },
+  {
+    "Name":"Terminator: Dark Fate",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-11/65ee89fec760c.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TerminatorDarkFate19/index.m3u8"   
+  },
+  {
+    "Name":"Terminator Genisys",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-11/65ee897c4e0a3.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TerminatorGenisys15/index.m3u8"   
+  },
+  {
+    "Name":"Anweshippin Kandethum",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-11/65ee888231219.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AnweshippinKandethum24/index.m3u8"   
+  },
+  {
+    "Name":"Cleanskin",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-11/65ee87fd1d697.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Cleanskin12/index.m3u8"   
+  },
+  {
+    "Name":"Age of Heroes",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-11/65ee876d4c4a4.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AgeofHeroes11/index.m3u8"   
+  },
+  {
+    "Name":"High Ground",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-11/65ee6f914217b.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/HighGround20/index.m3u8"   
   },
   {
     "Name":"The Parades",
