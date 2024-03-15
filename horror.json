@@ -1,5 +1,10 @@
 [
   {
+    "Name":"Indigo",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-14/65f2aa8f4bd92.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Indigo23/index.m3u8"   
+  },
+  {
     "Name":"Earworm",
     "Image":"http://zegomovie.com/Uploads/vod/2024-03-14/65f2a885531b5.jpg",
     "pLink": "http://www.zegomovie.com/Videos/Earworm24/index.m3u8"   
