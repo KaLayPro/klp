@@ -1,5 +1,10 @@
 [
   {
+    "Name":"Charlie",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-18/65f7f6979c1b9.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Charlie15/index.m3u8"   
+  },
+  {
     "Name":"Becoming Jane",
     "Image":"http://zegomovie.com/Uploads/vod/2024-03-16/65f55fc463304.jpg",
     "pLink": "http://www.zegomovie.com/Videos/BecomingJane07/index.m3u8"   
