@@ -1,5 +1,15 @@
 [
    {
+    "Name":"Operation Valentine",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-23/65fe61a14bf19.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/OperationValentine24/index.m3u8"   
+  },
+   {
+    "Name":"Teri Baaton Mein Aisa Uljha Jiya",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-23/65fe6129c0817.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TeriBaatonMeinAisaUljhaJiya24/index.m3u8"   
+  },
+   {
     "Name":"Ae Watan Mere Watan",
     "Image":"http://zegomovie.com/Uploads/vod/2024-03-22/65fd4dd388704.jpg",
     "pLink": "http://www.zegomovie.com/Videos/AeWatanMereWatan24/index.m3u8"   
