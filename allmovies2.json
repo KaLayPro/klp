@@ -1,8 +1,28 @@
 [
   {
-    "Name":"The Color Purple",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-03-23/65fe5e3d07d11.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/TheColorPurple23/index.m3u8"   
+    "Name":"Operation Valentine",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-23/65fe61a14bf19.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/OperationValentine24/index.m3u8"   
+  },
+  {
+    "Name":"Teri Baaton Mein Aisa Uljha Jiya",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-23/65fe6129c0817.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TeriBaatonMeinAisaUljhaJiya24/index.m3u8"   
+  },
+  {
+    "Name":"Tirza",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-23/65fe605d5e349.PNG",
+    "pLink": "http://www.zegomovie.com/Videos/Tirza10/index.m3u8"   
+  },
+  {
+    "Name":"Mayhem!",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-23/65fe5f7024106.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Mayhem23/index.m3u8"   
+  },
+  {
+    "Name":"Cat and Dog",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-03-23/65fe5ea4bb880.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/CatandDog24/index.m3u8"   
   },
   {
     "Name":"The Color Purple",
