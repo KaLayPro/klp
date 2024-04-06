@@ -1,5 +1,20 @@
 [
   {
+    "Name":"The Prince, The Witch, and The Mermaid",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-04/660e209d8b28d.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ThePrinceTheWitchandTheMermaid02/index.m3u8"   
+  },
+  {
+    "Name":"The Settlers",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-04/660e1e26ad996.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheSettlers23/index.m3u8"   
+  },
+  {
+    "Name":"Rewind",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-04/660e1da688f31.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Rewind23/index.m3u8"   
+  },
+  {
     "Name":"Lambasingi",
     "Image":"http://zegomovie.com/Uploads/vod/2024-04-04/660e170c20cfe.jpg",
     "pLink": "http://www.zegomovie.com/Videos/Lambasingi24/index.m3u8"   
