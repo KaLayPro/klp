@@ -1,5 +1,30 @@
 [
   {
+    "Name":"Lambasingi",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-04/660e170c20cfe.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Lambasingi24/index.m3u8"   
+  },
+  {
+    "Name":"French Kiss",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-04/660e15ae0f6c3.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/FrenchKiss95/index.m3u8"   
+  },
+  {
+    "Name":"Blessed You",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-04/660e129e319ee.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/BlessedYou23/index.m3u8"   
+  },
+  {
+    "Name":"Slow",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-04/660e122427fdc.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/Slow23/index.m3u8"   
+  },
+  {
+    "Name":"On Fire",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-03/660d342706410.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/OnFire23/index.m3u8"   
+  },
+  {
     "Name":"Staring at Strangers",
     "Image":"http://zegomovie.com/Uploads/vod/2024-04-03/660d31949ac8d.jpg",
     "pLink": "http://www.zegomovie.com/Videos/StaringAtStrangers22/index.m3u8"   
