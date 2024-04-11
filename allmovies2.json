@@ -1,8 +1,38 @@
 [
   {
-    "Name":"Welcome Home, Brother!",
-    "Image":"http://zegomovie.com/Uploads/vod/2024-04-09/6614c61430a21.jpg",
-    "pLink": "http://www.zegomovie.com/Videos/VitajDomaBrate22/index.m3u8"   
+    "Name":"Dragon’s Cage",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-11/661767f6e74a4.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/DragonCage24/index.m3u8"   
+  },
+  {
+    "Name":"Monster Mash",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-11/66176482e0540.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/MonsterMash24/index.m3u8"   
+  },
+  {
+    "Name":"American Heist",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-10/661623eea40e0.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/AmericanHeist14/index.m3u8"   
+  },
+  {
+    "Name":"Rise of the Legend",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-10/66162380d7000.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/RiseoftheLegend14/index.m3u8"   
+  },
+  {
+    "Name":"Snake Skin Beauty",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-09/6614c7a0f3106.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/SnakeSkinBeauty24/index.m3u8"   
+  },
+  {
+    "Name":"Rescue on One’s Own",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-09/6614c71f771b9.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/RescueOnOneOwn24/index.m3u8"   
+  },
+  {
+    "Name":"The Lord of the Monsters",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-09/6614c9f0a3aac.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/TheLordOfTheMonsters24/index.m3u8"   
   },
   {
     "Name":"Welcome Home, Brother!",
