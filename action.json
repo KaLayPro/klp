@@ -1,5 +1,10 @@
 [
    {
+    "Name":"The Package",
+    "Image":"http://zegomovie.com/Uploads/vod/2024-04-27/662c79c34aa66.jpg",
+    "pLink": "http://www.zegomovie.com/Videos/ThePackage24/index.m3u8"   
+  },
+   {
     "Name":"Bhimaa",
     "Image":"http://zegomovie.com/Uploads/vod/2024-04-26/662b70aa62eb7.jpg",
     "pLink": "http://www.zegomovie.com/Videos/Bhimaa24/index.m3u8"   
